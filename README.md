@@ -1,2 +1,2 @@
-# swamphacks2017
+# Swamphacks2017
 project for swamphacks2017 
